@@ -1,2 +1,2 @@
 # test
-### trst 
+### Calculate the KD and MACD for Taiwan stock price 
